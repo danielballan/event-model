@@ -1,5 +1,9 @@
 [
   {
+    "version": "dtype_numpy",
+    "url": "https://danielballan.github.io/event-model/dtype_numpy/"
+  },
+  {
     "version": "rel-notes-1.19.9",
     "url": "https://danielballan.github.io/event-model/rel-notes-1.19.9/"
   }
